@@ -1,0 +1,4 @@
+AuthType Basic
+AuthUserFile /home/_domain_logs/dh_zhtei7/jubileeausten.com/http.41385771/html/.htpasswd
+AuthName "Statistics Area"
+require valid-user
